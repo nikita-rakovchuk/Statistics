@@ -33,3 +33,5 @@ OUTPUT.TXT
 29 7 15 17 1
 4 12 24
 NO
+
+<a href="http://fotohost.by/image/2jjg"><img src="http://fotohost.by/images/2017/07/04/STATISTIKA.jpg" alt="STATISTIKA.jpg" border="0" /></a>
